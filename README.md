@@ -3,7 +3,7 @@
 > **Empowering couples, corporate coordinators, gala committees, and celebration hosts with proactive financial balancing, forensic contract de-risking, constraint-driven seating optimization, and cascading timeline orchestration.**
 
 [![Live Web App](https://img.shields.io/badge/Live_App-Vercel_Production-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://event-genie-plan-ai.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-EventGeniePlanAI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/behemalatha257-hue/EventGeniePlanAI)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-EventPlan--AI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemalathabe2526-hub/EventPlan-AI)
 [![Tests Passing](https://img.shields.io/badge/Tests-30%2F30%20Passing%20(100%25)-10b981?style=for-the-badge&logo=jest&logoColor=white)](tests/)
 [![Google Gemini](https://img.shields.io/badge/AI_Engine-Gemini_3.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Accessibility](https://img.shields.io/badge/Accessibility-WCAG_2.1_AAA-8b5cf6?style=for-the-badge)](ACCESSIBILITY.md)
@@ -16,7 +16,7 @@
 
 - **Live Application:** [https://event-genie-plan-ai.vercel.app](https://event-genie-plan-ai.vercel.app)
 - **API Health & System Telemetry:** [https://event-genie-plan-ai.vercel.app/api/health](https://event-genie-plan-ai.vercel.app/api/health)
-- **GitHub Repository:** [https://github.com/behemalatha257-hue/EventGeniePlanAI](https://github.com/behemalatha257-hue/EventGeniePlanAI)
+- **GitHub Repository:** [https://github.com/hemalathabe2526-hub/EventPlan-AI](https://github.com/hemalathabe2526-hub/EventPlan-AI)
 
 ---
 
@@ -328,8 +328,8 @@ eventgenieplan-ai/
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/behemalatha257-hue/EventGeniePlanAI.git
-cd EventGeniePlanAI
+git clone https://github.com/hemalathabe2526-hub/EventPlan-AI.git
+cd EventPlan-AI
 
 # Install dependencies
 npm install
@@ -370,7 +370,7 @@ npm run test:jest
 ### Option 1: Vercel (Single-Click Deployment)
 This repository is configured for native Vercel deployment via [`vercel.json`](vercel.json) and [`api/index.js`](api/index.js).
 
-1. Import the repository [https://github.com/behemalatha257-hue/EventGeniePlanAI](https://github.com/behemalatha257-hue/EventGeniePlanAI) into your [Vercel Dashboard](https://vercel.com).
+1. Import the repository [https://github.com/hemalathabe2526-hub/EventPlan-AI](https://github.com/hemalathabe2526-hub/EventPlan-AI) into your [Vercel Dashboard](https://vercel.com).
 2. Set Environment Variables:
    - `GEMINI_API_KEY`: *(Optional) Your Google Gemini API Key*
    - `GEMINI_MODEL`: `gemini-3.5-flash`
